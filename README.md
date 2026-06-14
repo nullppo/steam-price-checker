@@ -70,7 +70,7 @@ python richmain.py
 | `br` | Brazil         |
 | `eu` | Europe         |
 
-Any valid [Steam country code](https://store.steampowered.com/api/) works.
+Any valid Steam country code works.
 
 ---
 
@@ -78,10 +78,10 @@ Any valid [Steam country code](https://store.steampowered.com/api/) works.
 
 ```bash
 pip install pyinstaller
-python -m PyInstaller --onefile --console --icon=icon.ico richmain.py
+python -m PyInstaller --onefile --console steam-price-checker.py
 ```
 
-Output: `dist/richmain.exe`
+Output: `dist/steam-price-checker.py`
 
 ---
 
