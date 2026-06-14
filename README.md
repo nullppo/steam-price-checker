@@ -26,7 +26,10 @@
 - 📦 **Portable .exe** — run on any Windows machine, no Python required
 
 ---
+## Preview
+<img width="1102" height="335" alt="image" src="https://github.com/user-attachments/assets/64e415d9-2189-4617-aafe-1dff6872dfae" />
 
+---
 
 ## 🚀 Quick Start
 
