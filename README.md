@@ -100,8 +100,8 @@ Output: `dist/steam-price-checker.py`
 
 ```
 steam-price-checker/
-├── richmain.py        ← main script
-├── requirements.txt   ← dependencies
+├── steam-price-checker.py  ← main script
+├── requirements.txt        ← dependencies
 └── README.md
 ```
 
@@ -109,7 +109,7 @@ steam-price-checker/
 
 ## 📄 License
 
-MIT © 2026 — free to use, modify and distribute.
+MIT © 2026 - free to use, modify and distribute.
 
 ---
 
